@@ -23,4 +23,6 @@ For some reason, Raspberry Pi refuses to work at it's own IP address (10.55.0.1)
 raspberrypi.local
 
 For ssh:
-ssh youurusername@raspberrypi.local
+```bash
+   ssh youurusername@raspberrypi.local
+```
