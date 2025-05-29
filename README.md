@@ -19,10 +19,10 @@ A simple script that automates the Gadget Mode setting on Raspberry Pi 5, Debian
 
 
 ## Warning
-For some reason, Raspberry Pi refuses to work at it's own IP address (10.55.0.1), use instead yourrpiname.Local for example: 
-raspberrypi.local
+For some reason, Raspberry Pi refuses to work at it's own IP address (10.55.0.1), use instead **``yourrpiname.local``** for example: 
+``raspberrypi.local``
 
-For ssh:
+Example for ssh:
 ```bash
-   ssh youurusername@raspberrypi.local
+   ssh raspberry@raspberrypi.local
 ```
