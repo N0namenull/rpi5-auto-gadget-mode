@@ -12,7 +12,7 @@ A simple script that automates the Gadget Mode setting on Raspberry Pi 5, Debian
 2. Launch script
 ```bash
    cd rpi5-auto-gadget-mode/
-   chmod +x setup-usbgadget.sh
+   sudo chmod +x setup-usbgadget.sh
    sudo ./setup-usbgadget.sh
 
 ```
